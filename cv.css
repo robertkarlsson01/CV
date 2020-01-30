@@ -1,0 +1,39 @@
+#header{
+    
+    height: 150px;
+    text-align: center;
+    font-size: 40px;
+    color:white;
+    padding:20px;
+
+}
+#me{
+background:black;
+margin: 10px;
+padding: 10px;
+width: 150px;
+font-size: 25px;
+border-radius: 25px;
+color: white;
+}
+.border{
+width:100%;
+background:black;
+height:3px ;
+margin: 20px;
+}
+#img{
+
+margin:20px;
+}
+.box{
+background: black;
+color: white;
+width:200px;
+margin:40px;
+padding:10px
+}
+#grad {
+    background: rgb(11,243,45);
+    background: linear-gradient(200deg, rgba(11,243,45,1) 0%, rgba(14,185,239,1) 82%);     
+  }
