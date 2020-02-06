@@ -1,0 +1,9 @@
+help
+dir=visar alla mappar
+md gör mapp
+rd delete mapp
+cd=öppna mapp
+cd.= var man är just nu
+cd.. viken mapp mappen är i
+*
+?
